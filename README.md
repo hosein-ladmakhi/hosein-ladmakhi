@@ -1,4 +1,4 @@
-![Hosein Ladmakhi](/images/cover.png)
+![Nurahmat Web Developer](/images/cover.png)
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=nurofsun.nurofsun" alt="Visitor Badge">
 </p>
